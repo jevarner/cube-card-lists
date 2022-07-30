@@ -11,6 +11,7 @@
 1 Dawnbringer Cleric
 1 Flutterfox
 1 Impassioned Orator
+1 Seeker of the Way
 1 Serene Steward
 1 Shepherd of the Flock
 1 Silverflame Squire
@@ -45,7 +46,6 @@
 1 Plate Armor
 1 Glaring Aegis
 1 Angelic Renewal
-1 Blessing
 1 Trapped in the Tower
 1 Oblivion Ring
 1 Security Blockade
@@ -114,6 +114,7 @@
 1 Acquisitions Expert
 1 Cuombajj Witches
 1 Elderfang Disciple
+1 Nullpriest of Oblivion
 1 Oona's Blackguard
 1 Oona's Prowler
 1 Order of Midnight
@@ -122,8 +123,8 @@
 1 Weirding Shaman
 1 Auntie's Snitch
 1 Belle of the Brawl
-1 Chittering Rats
 1 Gorging Vulture
+1 Murderous Rider
 1 Oathsworn Knight
 1 Thieving Sprite
 1 Viconia, Drow Apostate
@@ -157,7 +158,6 @@
 1 Witch's Cauldron
 1 Dead Weight
 1 Vessel of Malignity
-1 Strands of Night
 1 Witch's Cottage
 1 Fearless Pup
 1 Ghitu Lavarunner
@@ -201,6 +201,7 @@
 1 Brimstone Volley
 1 Urza's Rage
 1 You See a Pair of Goblins
+1 Chandra's Outrage
 1 Claim the Firstborn
 1 Fireball
 1 Pillar of Flame
@@ -211,51 +212,51 @@
 1 Roil Eruption
 1 Hordeling Outburst
 1 Magic Missile
-1 Engulfing Eruption
 1 Ferocity of the Wilds
-1 Arbor Elf
 1 Fyndhorn Elves
+1 Healer of the Glade
 1 Jaspera Sentinel
-1 Spore Frog
+1 Llanowar Elves
 1 Treefolk Harbinger
 1 Ambush Viper
-1 Curious Pair
-1 Elvish Warrior
 1 Guardian Gladewalker
 1 Leaf Gilder
 1 Scorned Villager
+1 Sylvan Advocate
 1 Tajuru Paragon
 1 Wolf-Skull Shaman
 1 Woodland Changeling
 1 Civic Wayfinder
-1 Ferocious Pup
-1 Heartwood Storyteller
 1 Imperious Perfect
-1 Reclamation Sage
+1 Jadelight Ranger
+1 Prowling Serpopard
+1 Rishkar, Peema Renegade
 1 Trufflesnout
 1 Wolfir Avenger
+1 Ambassador Oak
 1 Briarpack Alpha
-1 Fierce Witchstalker
 1 Joraga Visionary
 1 Littjara Glade-Warden
 1 Wren's Run Packmaster
 1 Changeling Titan
 1 Keeper of Fables
-1 Seedguide Ash
+1 Kura, the Boundless Sky
+1 Owlbear
 1 Webweaver Changeling
-1 Colossal Badger
 1 Great Oak Guardian
 1 Orchard Strider
+1 Primeval Titan
 1 Veteran Adventurer
 1 Warden of the Woods
 1 Beanstalk Giant
 1 Dread Linnorm
 1 Wren's Run Hydra
-1 Moment's Peace
+1 Giant Growth
 1 Once Upon a Time
 1 Return to Nature
-1 Tangle
+1 You Happen On a Glade
 1 Predator's Howl
+1 Return of the Wildspeaker
 1 Adventurous Impulse
 1 Explore
 1 Rampant Growth
@@ -265,13 +266,12 @@
 1 Hunting Triad
 1 You Meet in a Tavern
 1 Overcome
-1 Wild Growth
 1 Raised by Wolves
 1 Gingerbread Cabin
-1 Kwain, Itinerant Meddler
-1 Arcanist's Owl
+1 Senate Guildmage
 1 Thunderclap Wyvern
 1 Spoils of Adventure
+1 Ojutai, Soul of Winter
 1 Sygg, River Cutthroat
 1 Wydwen, the Biting Gale
 1 Nymris, Oona's Trickster
@@ -280,12 +280,12 @@
 1 Swift Warkite
 1 Grumgully, the Generous
 1 Tattermunge Duo
-1 Hellkite Hatchling
+1 Rampart Smasher
 1 Trelasarra, Moon Dancer
 1 Armadillo Cloak
 1 Oakhame Ranger
 1 Breathless Knight
-1 Gift of Orzhova
+1 Nalia de'Arnise
 1 Aryel, Knight of Windgrace
 1 Improbable Alliance
 1 Kaza, Roil Chaser
@@ -305,7 +305,7 @@
 1 Alela, Artful Provocateur
 1 Cruel Ultimatum
 1 Colfenor, the Last Yew
-1 Archelos, Lagoon Mystic
+1 Leovold, Emissary of Trest
 1 Gingerbrute
 1 Universal Automaton
 1 Crashing Drawbridge
