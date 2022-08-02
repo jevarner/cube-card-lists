@@ -3,4 +3,5 @@ A list of all of the cubes I am currently building for Magic: The Gathering. I u
 
 # Current List of Cubes
 
-- May's Fae Cube
+- May's Fae Cube by Myagic
+- The Peasant Cube by MatDeff
