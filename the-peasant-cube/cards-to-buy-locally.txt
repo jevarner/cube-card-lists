@@ -5,8 +5,8 @@ Get fast:
 
 I own (maybe):
 Legion Vanguard
-Counterspell
-Supreme Will
+Counterspell - y
+Supreme Will - y
 Strategic Planning
 Thermo-Alchemist
 Zulaport Cutthroat
@@ -17,26 +17,16 @@ Grapple with the Past
 Arc Trail
 Fairgrounds Warden
 Thrashing Brontodon
-Mana Leak
 Doomed Traveler
-Lightning Bolt
 Duskwatch Recruiter
 Ravenous Chupacabra
-Suture Priest
-Gitaxian Probe
 Blood Artist
-Siren Stormtamer
-Beast Within
 Acidic Slime
-Dismember
 Charging Monstosaur
 Hieroglyphic Illumination
 Llanowar Elves
 Rampant Growth
-Lightning Strike
-Snapping Sailback
 Vault Skirge
-Wall of Blossoms
 
 Update Version:
 Buried Alive
