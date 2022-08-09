@@ -17,26 +17,16 @@ Grapple with the Past
 Arc Trail
 Fairgrounds Warden
 Thrashing Brontodon
-Mana Leak - y
 Doomed Traveler
-Lightning Bolt - y
 Duskwatch Recruiter
-Ravenous Chupacabra 
-Suture Priest - y
-Gitaxian Probe - y
+Ravenous Chupacabra
 Blood Artist
-Siren Stormtamer - y
-Beast Within - y
 Acidic Slime
-Dismember - y
 Charging Monstosaur
 Hieroglyphic Illumination
 Llanowar Elves
 Rampant Growth
-Lightning Strike - y
-Snapping Sailback - y
 Vault Skirge
-Wall of Blossoms - y
 
 Update Version:
 Buried Alive
